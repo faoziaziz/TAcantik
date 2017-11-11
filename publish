@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "Aziz Keren"
+git push origin master
