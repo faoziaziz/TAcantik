@@ -6,5 +6,12 @@ Wah asal progress lah, walau tidak semestinya wkwkwk.
 **untuk Code User Interface** 
 
 
-[I'm an inline-style link](https://github.com/faoziaziz/TAcantik/tree/master/userinterface/TAcantik)
+[Direktori Code Userinteface](https://github.com/faoziaziz/TAcantik/tree/master/userinterface/TAcantik)
+
+
+
+
+# Iklan 
+
+[Sponsor Utama](https://faoziaziz.herokuapp.com)
 
